@@ -255,6 +255,6 @@ Querydsl을 사용해 다양한 경우에 한가지 쿼리로 동작할 수 있�
 | FE·React   | 박지윤 | 🔗 [GitHub::connie](https://github.com/verocony)     | ENFP |
 | FE·React   | 이지나 | 🔗 [GitHub::C e l i n a](https://github.com/LEEJEENA)     | ISTJ |
 | 🔰 BE·Spring             | 공은희 | 🔗 [GitHub::euni](https://github.com/euni1004) | INTP |
-| BE·Spring                | 김병현 | 🔗 [GitHub::S a n d b a c k e n d](https://github.com/KimByeungHyun)   | ISFP |
+| BE·Spring                | 김병현 | 🔗 [GitHub::S a n d b a c k e n d](https://github.com/kimByeungHyun)   | ISFP |
 | BE·Spring                | 정동훈 | 🔗 [GitHub::dhun0103](https://github.com/dhun0103)   | INTJ |
 | UX/UI                    | 양은희 |                                                          | INTP |
